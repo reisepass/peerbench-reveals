@@ -1,0 +1,55 @@
+{
+  "commitment": {
+    "spec_version": "0.2.0",
+    "commitment_hash": "e369fa309f0b967cdf16c682f6f3446b1b604e908928d1c61424fb0e2ce69b23",
+    "items": [
+      "b01ead495bb24473ac94c72c06a2ad1570cee7264de6ccf77772f37d0de0bc0a",
+      "5b4316c5c8bb659bda060045c92ff7ee65ef3ced02a3321d27b8d35d33017902",
+      "30d5c32118b12fd06563cabf023d1b13be68c8f62bf3223d804d3c58bf115105",
+      "54b43f56b6b522b8718f3e5f842c671ee2cc87647a16081459f2b52390027120"
+    ],
+    "item_count": 4,
+    "reveal_probability": 0.5,
+    "beacon": {
+      "type": "drand",
+      "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971"
+    },
+    "metadata": {},
+    "committed_at": "2026-02-07T21:46:23.699Z",
+    "signing_key": "did:key:z6MkhEYPvVgUdYg6rFSQ1aWeXRLHt283RMGodUzsxi5VDwz8",
+    "signature": "6f7b2904a4543a070e50743ded40d1e3613a050cfa78638e30b33910aa65a9e621a6ab2de23b436406ebaec6878f2539a3f954271ebb2fcb363b4f45f51aba07"
+  },
+  "commitment_hash": "e369fa309f0b967cdf16c682f6f3446b1b604e908928d1c61424fb0e2ce69b23",
+  "registered_at": "2026-02-07T21:46:25.367Z",
+  "arrival_beacon": {
+    "type": "drand",
+    "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+    "round": 25899140,
+    "randomness": "86877ac1401bceb3decd5ed52ff4a281e8cb11adc150b8b043fd9fe3d83603e3",
+    "signature": "97708949639f7b03e085ab2322b4d65cc5775124251df2ae307cba4baf7286b8d14c20e3dd95797d6c9c9c3056e94944"
+  },
+  "selection": {
+    "commitment_hash": "e369fa309f0b967cdf16c682f6f3446b1b604e908928d1c61424fb0e2ce69b23",
+    "beacon_output": {
+      "type": "drand",
+      "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+      "round": 25899141,
+      "randomness": "62973d37afcc7838d2e12f10fceb71e5d9c021b13a30e92563593ed81267f069",
+      "signature": "8ae7a211cf95f40431b59d7e39b2cb72b635813cfc280dab6155ac504b061c4538245dee6fba40172aebea61ef76586d"
+    },
+    "selection_mode": "per_item",
+    "reveal_probability": 0.5,
+    "selected_items": [
+      "b01ead495bb24473ac94c72c06a2ad1570cee7264de6ccf77772f37d0de0bc0a"
+    ],
+    "selected_count": 1,
+    "total_count": 4,
+    "computed_at": "2026-02-07T21:46:27.270Z"
+  },
+  "signer_activity": {
+    "commitments_past_hour": 3,
+    "commitments_past_month": 23
+  },
+  "server_key": "did:key:z6MkqwzoE3a8Q1WQ1egLu2w5pjDLKDqpmQ9FV67wYXtWnUeK",
+  "server_signature": "e76a92dcd9c68332c7d388d0bd81f41935ce60115575f63c9557cad5179b37fb7b45f8c743f9dfdff58e6c29ed35b97da6b96106bb0d66e0d70999fb1bf1e80f"
+}

@@ -1,0 +1,23 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "da7ace96f4bc0bd5d13b62c4a625ba58195ac395f4dd5dd9187ff79b3b857a77",
+  "items": [
+    {
+      "path": "administrative_62cb85f2.json",
+      "hash": "b01ead495bb24473ac94c72c06a2ad1570cee7264de6ccf77772f37d0de0bc0a"
+    },
+    {
+      "path": "civil-procedure_68be4dc0.json",
+      "hash": "5b4316c5c8bb659bda060045c92ff7ee65ef3ced02a3321d27b8d35d33017902"
+    },
+    {
+      "path": "contracts_ed996aeb.json",
+      "hash": "30d5c32118b12fd06563cabf023d1b13be68c8f62bf3223d804d3c58bf115105"
+    },
+    {
+      "path": "evidence_fb972c7d.json",
+      "hash": "54b43f56b6b522b8718f3e5f842c671ee2cc87647a16081459f2b52390027120"
+    }
+  ],
+  "created_at": "2026-02-07T21:46:21.665Z"
+}
