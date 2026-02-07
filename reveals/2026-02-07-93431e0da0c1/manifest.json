@@ -1,0 +1,19 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "82ea64a27d090114c6c0165dfa338dea51169e7bfab7ec26075a1310c1fa650d",
+  "items": [
+    {
+      "path": "constitutional_0ebb20c2.json",
+      "hash": "de738173c21e4a4795c20f9c8dbb98ee938c4cd80db8eef4b3a6a1c50543b6f0"
+    },
+    {
+      "path": "ethics_b33cb94a.json",
+      "hash": "ba505fc6498eee96886f22e81893593b7e3224ba82edff312ce439fe18443636"
+    },
+    {
+      "path": "evidence_85f96f91.json",
+      "hash": "5716bc500b5bedb16621b357f8ef5ba13850e22728a6d64b66a8122308b5f004"
+    }
+  ],
+  "created_at": "2026-02-07T22:05:26.869Z"
+}
