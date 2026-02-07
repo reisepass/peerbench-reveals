@@ -1,0 +1,52 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "66ea1ed53479a17d36d4a424cb8c94e09a7179aa36dc0a046bc67a834d37d2e2",
+  "revealed_at": "2026-02-07T16:44:00.306Z",
+  "receipts": [
+    {
+      "server_name": "cloudflare-1",
+      "server_url": "https://commit-reveal-cloudflare-dev.peerbench.ai",
+      "response": {
+        "reveal_id": "959fc8c0fcf24ed28757c742d1958b35",
+        "registered_at": "2026-02-07T16:44:00.410Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893092,
+          "randomness": "4e6c4662026f11ae7d9497465292bc14bd49a57935cfe44d769615ac09dad011",
+          "signature": "a795f3831ad129a29823ec307261231884f1ba28685749ee394a5976b46a99a91690bb163d93c6b6d3f2e6dccf92ca50"
+        }
+      }
+    },
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "7cf06eecf0de436080ae9810594246cc",
+        "registered_at": "2026-02-07T16:44:00.915Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893092,
+          "randomness": "4e6c4662026f11ae7d9497465292bc14bd49a57935cfe44d769615ac09dad011",
+          "signature": "a795f3831ad129a29823ec307261231884f1ba28685749ee394a5976b46a99a91690bb163d93c6b6d3f2e6dccf92ca50"
+        }
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "3eb8557929a24a559cc61dc7b08e5911",
+        "registered_at": "2026-02-07T16:44:00.515Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893092,
+          "randomness": "4e6c4662026f11ae7d9497465292bc14bd49a57935cfe44d769615ac09dad011",
+          "signature": "a795f3831ad129a29823ec307261231884f1ba28685749ee394a5976b46a99a91690bb163d93c6b6d3f2e6dccf92ca50"
+        }
+      }
+    }
+  ]
+}
