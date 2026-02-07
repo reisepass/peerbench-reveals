@@ -1,0 +1,31 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "a1c75ac5d40aca8aa50fc91effa992469d3d3a31f6b44ca7fcf18520a29703fb",
+  "items": [
+    {
+      "path": "constitutional_00b81a14.json",
+      "hash": "969e8210d3be1cef454251fff67df170499f6eb0adc2ccd287e88581ed1b56f0"
+    },
+    {
+      "path": "constitutional_0e03df5a.json",
+      "hash": "f3f4fed6972a61208ceb743060f2f8e4ee4ab23590a2e85e5c3ba95d4f9f8897"
+    },
+    {
+      "path": "criminal-law_2a33009a.json",
+      "hash": "7df310f734e799dd7f76068d099bc36da94faad334086dd4d0ed903892509825"
+    },
+    {
+      "path": "ethics_e9c99818.json",
+      "hash": "c6c79f4da4206440e24859755a28d54febf572a809d168b3d340b34cc14e610d"
+    },
+    {
+      "path": "evidence_671b3e70.json",
+      "hash": "35571c542769df5c713cac7820c1f135f362b05f583a62b664317436f4694af5"
+    },
+    {
+      "path": "family-law_c4b83960.json",
+      "hash": "3ac9b72798f11c349c9c2183c6080baeefb639127193e4e15da93236ffd7f615"
+    }
+  ],
+  "created_at": "2026-02-07T22:46:50.554Z"
+}
