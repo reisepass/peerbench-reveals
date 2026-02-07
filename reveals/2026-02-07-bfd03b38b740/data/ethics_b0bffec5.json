@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "topic": "ethics",
+    "question": "Sample question 60a0ea9e?",
+    "choices": [
+      "Answer_64338a",
+      "Answer_771f15",
+      "Answer_50410f",
+      "Answer_279c5b"
+    ],
+    "answer": 0,
+    "difficulty": "medium",
+    "nonce": "e6f86a6fb49c3cd3"
+  },
+  {
+    "id": 2,
+    "topic": "ethics",
+    "question": "Sample question f09ae39d?",
+    "choices": [
+      "Answer_8fa0f0",
+      "Answer_45b597",
+      "Answer_b47355",
+      "Answer_fb93cb"
+    ],
+    "answer": 0,
+    "difficulty": "hard",
+    "nonce": "5c96ccc9c9c349f4"
+  },
+  {
+    "id": 3,
+    "topic": "ethics",
+    "question": "Sample question 07842fe6?",
+    "choices": [
+      "Answer_4939d4",
+      "Answer_9f5ee8",
+      "Answer_d6cd7a",
+      "Answer_43957b"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "nonce": "e98c9132a1f6a4d8"
+  }
+]
