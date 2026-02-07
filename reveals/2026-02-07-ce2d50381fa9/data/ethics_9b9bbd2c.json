@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "topic": "ethics",
+    "question": "Sample question 9f5043a1?",
+    "choices": [
+      "Answer_0428ce",
+      "Answer_4b991e",
+      "Answer_3fe3a6",
+      "Answer_063eb4"
+    ],
+    "answer": 0,
+    "difficulty": "easy",
+    "nonce": "698a547159d75538"
+  },
+  {
+    "id": 2,
+    "topic": "ethics",
+    "question": "Sample question caa3688f?",
+    "choices": [
+      "Answer_29100f",
+      "Answer_14ef8c",
+      "Answer_19332f",
+      "Answer_8c8a2c"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "nonce": "43fc3050d01ac55a"
+  }
+]
