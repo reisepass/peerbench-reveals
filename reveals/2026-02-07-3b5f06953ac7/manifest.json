@@ -1,0 +1,27 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "269bc21464b731bd6202ead073db09ce786af8f3fcec14f056c8797b1973dd45",
+  "items": [
+    {
+      "path": "administrative_2d3e9477.json",
+      "hash": "8db6790bccb1df70a489b7cb0254e30a667d6171625ff18b25fc5dd27eed3061"
+    },
+    {
+      "path": "ethics_ebbd842c.json",
+      "hash": "6fae940fda0c18b2ea16af8e0c6f853641434df8fbb6c28a87e03c8bd65cd0e0"
+    },
+    {
+      "path": "family-law_59cc4968.json",
+      "hash": "4a7d91535981f5e07d1bdd6f49ba5d1d6d9898047fae58dc3c2f26338bb554df"
+    },
+    {
+      "path": "family-law_9a8c2fa1.json",
+      "hash": "1e13144ddce54fb1d026ef1b2816612848c4a1c604423ac0c7f4c67a822d352a"
+    },
+    {
+      "path": "torts_7a3b0eb8.json",
+      "hash": "d741af437532f71ec7dac3173ae4920225d5481af0ddc5be91a8adc086b61410"
+    }
+  ],
+  "created_at": "2026-02-07T16:47:04.343Z"
+}

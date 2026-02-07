@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "topic": "ethics",
+    "question": "Sample question ac1ca6d2?",
+    "choices": [
+      "Answer_396857",
+      "Answer_09ab1f",
+      "Answer_6b546d",
+      "Answer_159386"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "nonce": "418b156be16ef01b"
+  },
+  {
+    "id": 2,
+    "topic": "ethics",
+    "question": "Sample question 67c7bae1?",
+    "choices": [
+      "Answer_ae9ec0",
+      "Answer_81e0c0",
+      "Answer_7b2471",
+      "Answer_c30c44"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "nonce": "ca7cb075af034d34"
+  },
+  {
+    "id": 3,
+    "topic": "ethics",
+    "question": "Sample question 08e690b1?",
+    "choices": [
+      "Answer_952126",
+      "Answer_e91963",
+      "Answer_98fe46",
+      "Answer_565b40"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "nonce": "2cf5a1d0190a79d6"
+  },
+  {
+    "id": 4,
+    "topic": "ethics",
+    "question": "Sample question 08986ebd?",
+    "choices": [
+      "Answer_53c72b",
+      "Answer_cce2bf",
+      "Answer_556559",
+      "Answer_0f10c3"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "nonce": "1f94fbd0e05fbfe3"
+  }
+]
