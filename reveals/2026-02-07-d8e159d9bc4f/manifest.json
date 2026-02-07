@@ -1,0 +1,31 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "a9694b61c5b2ac9581c0c67a6e631d703a6f87ac837bbd03e4697b44b35fe0e7",
+  "items": [
+    {
+      "path": "administrative_8d128a05.json",
+      "hash": "39390e89dbf155395fc284c42bce256ce69819687bf92b94f55d833977237adf"
+    },
+    {
+      "path": "contracts_89331942.json",
+      "hash": "10cae13009268a9a7cd7602a0c4b8840367d1b52dafcc8bb0aad18ae19ab7395"
+    },
+    {
+      "path": "contracts_e91c306f.json",
+      "hash": "c71202ca2a519f83652bc33a417343a7f4e16fa4cff8c2cf6f61994de5b917cc"
+    },
+    {
+      "path": "property_1de2084a.json",
+      "hash": "87c6d1083bc6bf62f47105a164b5cc4e16c89537773096f2bc97f97ed1009800"
+    },
+    {
+      "path": "property_75096cae.json",
+      "hash": "9d2db07fbb88b04cb04ff611455f216d4529dac5cc78e9fd91a30cdf1464c2ae"
+    },
+    {
+      "path": "property_a7cb8f12.json",
+      "hash": "293db17c6cc3cb658cd06b30e2a0ef2956737bf33aec7c2bf571def3801e9468"
+    }
+  ],
+  "created_at": "2026-02-07T16:58:57.482Z"
+}
