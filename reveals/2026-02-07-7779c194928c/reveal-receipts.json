@@ -1,0 +1,142 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "7779c194928cb9ab1f26523d943b3834b8a08b09f77a35f19808003108d5f52b",
+  "revealed_at": "2026-02-07T22:47:33.790Z",
+  "receipts": [
+    {
+      "server_name": "cloudflare-1",
+      "server_url": "https://commit-reveal-cloudflare-dev.peerbench.ai",
+      "response": {
+        "reveal_id": "0cb8a35ae25a444ca7f7857f3e9112d5",
+        "registered_at": "2026-02-07T22:47:33.945Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25900363,
+          "randomness": "b1b7b2e53775f27566f69c3f261abd595df6fe77b931cbaea6b91cfa07a328b3",
+          "signature": "951b2b709bd38181c70310af86ddd5f91a9b8ff2754094ab0bc3b43cc5ec0698a6f6da2bc680cff99bf37cbcc66b5f66"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 4,
+          "total_selected": 4,
+          "items": [
+            {
+              "hash": "969e8210d3be1cef454251fff67df170499f6eb0adc2ccd287e88581ed1b56f0",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/constitutional_00b81a14.json",
+              "status": "match"
+            },
+            {
+              "hash": "7df310f734e799dd7f76068d099bc36da94faad334086dd4d0ed903892509825",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/criminal-law_2a33009a.json",
+              "status": "match"
+            },
+            {
+              "hash": "35571c542769df5c713cac7820c1f135f362b05f583a62b664317436f4694af5",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/evidence_671b3e70.json",
+              "status": "match"
+            },
+            {
+              "hash": "3ac9b72798f11c349c9c2183c6080baeefb639127193e4e15da93236ffd7f615",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/family-law_c4b83960.json",
+              "status": "match"
+            }
+          ]
+        },
+        "file_urls_registered": 4,
+        "server_key": "did:key:z6MkqwzoE3a8Q1WQ1egLu2w5pjDLKDqpmQ9FV67wYXtWnUeK",
+        "server_signature": "0e394d047d2df5b867c3a7378d185d4f0567aa47ff8f61852e2d523d76643c9a55d1ea77a731ed2dcdf54aee91d3433a9b7edaad1e279b68216e40d75bf6550d"
+      }
+    },
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "7f12a93507644f4c81e0f5e212a661aa",
+        "registered_at": "2026-02-07T22:47:34.131Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25900363,
+          "randomness": "b1b7b2e53775f27566f69c3f261abd595df6fe77b931cbaea6b91cfa07a328b3",
+          "signature": "951b2b709bd38181c70310af86ddd5f91a9b8ff2754094ab0bc3b43cc5ec0698a6f6da2bc680cff99bf37cbcc66b5f66"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 4,
+          "total_selected": 4,
+          "items": [
+            {
+              "hash": "969e8210d3be1cef454251fff67df170499f6eb0adc2ccd287e88581ed1b56f0",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/constitutional_00b81a14.json",
+              "status": "match"
+            },
+            {
+              "hash": "7df310f734e799dd7f76068d099bc36da94faad334086dd4d0ed903892509825",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/criminal-law_2a33009a.json",
+              "status": "match"
+            },
+            {
+              "hash": "35571c542769df5c713cac7820c1f135f362b05f583a62b664317436f4694af5",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/evidence_671b3e70.json",
+              "status": "match"
+            },
+            {
+              "hash": "3ac9b72798f11c349c9c2183c6080baeefb639127193e4e15da93236ffd7f615",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/family-law_c4b83960.json",
+              "status": "match"
+            }
+          ]
+        },
+        "file_urls_registered": 4,
+        "server_key": "did:key:z6MkmSjTtLHTfdmTTuN6v5KNDCNxheEfnyxzSz4Zk1stQRYT",
+        "server_signature": "084b2e775bf933f83eda7e1adc9b6358dbf3c8f273a0ff51026aecdd0b72ff85f42b19c554d368c7e0c8757453c24264635ff9c1a2c2c2bbeeeb52227eef140f"
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "010798159db84c7c80cefaf2bebddf4f",
+        "registered_at": "2026-02-07T22:47:34.093Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25900363,
+          "randomness": "b1b7b2e53775f27566f69c3f261abd595df6fe77b931cbaea6b91cfa07a328b3",
+          "signature": "951b2b709bd38181c70310af86ddd5f91a9b8ff2754094ab0bc3b43cc5ec0698a6f6da2bc680cff99bf37cbcc66b5f66"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 4,
+          "total_selected": 4,
+          "items": [
+            {
+              "hash": "969e8210d3be1cef454251fff67df170499f6eb0adc2ccd287e88581ed1b56f0",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/constitutional_00b81a14.json",
+              "status": "match"
+            },
+            {
+              "hash": "7df310f734e799dd7f76068d099bc36da94faad334086dd4d0ed903892509825",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/criminal-law_2a33009a.json",
+              "status": "match"
+            },
+            {
+              "hash": "35571c542769df5c713cac7820c1f135f362b05f583a62b664317436f4694af5",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/evidence_671b3e70.json",
+              "status": "match"
+            },
+            {
+              "hash": "3ac9b72798f11c349c9c2183c6080baeefb639127193e4e15da93236ffd7f615",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-7779c194928c/data/family-law_c4b83960.json",
+              "status": "match"
+            }
+          ]
+        },
+        "file_urls_registered": 4,
+        "server_key": "did:key:z6MkjzBJL9zxTKqhoogzgrh6VoWMf1z5Jjyv7bVJwSfbASqM",
+        "server_signature": "0a2a677d4884d556ae8454ae4e75c97dedce4a2b4019c3da57ee2e35a0b626063bc219b94f512d2e963a2afc53e37e30691396f683ba3a5b50b57cf7e2f36202"
+      }
+    }
+  ]
+}
