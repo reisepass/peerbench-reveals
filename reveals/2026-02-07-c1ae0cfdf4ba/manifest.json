@@ -1,0 +1,23 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "3b0329171fe2fe3afc1020dcaf66ff0c10cf34269520d4c23265d788951ef09d",
+  "items": [
+    {
+      "path": "constitutional_be9236c5.json",
+      "hash": "9251fb68e0e368ac8792f5be29add5fe8b5f3009ff0c086632af87a8eb7838c9"
+    },
+    {
+      "path": "criminal-law_1ef53374.json",
+      "hash": "e01da1fd3f77d7f6154d34adc80db3a9d4cc3655441e13c41b19d9e55acf5254"
+    },
+    {
+      "path": "property_a2fbb2d7.json",
+      "hash": "b2e5354aedd91deb0818cb50ca74bbb55ca654d906f77b3e5b5f3fa220b71227"
+    },
+    {
+      "path": "property_b10aac8d.json",
+      "hash": "884ada24538d9c448977af40f214f118264342e32da49da9e22de2c977040c53"
+    }
+  ],
+  "created_at": "2026-02-07T22:12:31.948Z"
+}
