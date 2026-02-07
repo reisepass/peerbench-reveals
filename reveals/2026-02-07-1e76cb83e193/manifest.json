@@ -1,0 +1,23 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "814e6a8f2b5602eab6d2a43e489bf8696279a3c250171599290baa3ecfc706a9",
+  "items": [
+    {
+      "path": "civil-procedure_89b052ea.json",
+      "hash": "392dee35e8a2fafb38f38c4c10f5ca185cf47e78050e589498a4c54de4a1f0dd"
+    },
+    {
+      "path": "ethics_6ec8143c.json",
+      "hash": "cf9f8afe865c1f138212899098a300cca62ff2e036c4590d422a729295dc9cf8"
+    },
+    {
+      "path": "family-law_a6d091d1.json",
+      "hash": "8e8e8418709dde6b3b1f5b0ca9ae845b20247f674b53b5bd079e235d04efa697"
+    },
+    {
+      "path": "torts_5cbce4a3.json",
+      "hash": "ab6016a629d306627dad0118bda1f4d3bfc0921c3bbda28b6d54cca7d702408f"
+    }
+  ],
+  "created_at": "2026-02-07T16:53:56.741Z"
+}
