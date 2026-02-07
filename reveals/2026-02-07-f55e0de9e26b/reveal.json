@@ -1,0 +1,11 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "f55e0de9e26bc33578a60e2b29bb7f5b62c5dde9a2b66062e61d989ab0eb9f39",
+  "selected_items": [
+    "171c22a4d226aa3e01aaac2a28f4cafdffea9a89a3f2ede9ba2ed40992e4a9e1"
+  ],
+  "voluntary_items": [],
+  "revealed_at": "2026-02-07T17:13:53.182Z",
+  "signing_key": "did:key:z6MkhEYPvVgUdYg6rFSQ1aWeXRLHt283RMGodUzsxi5VDwz8",
+  "signature": "a8b087bf592ed001baaae79a2a0ad31dec7c668b5cbfe25b4c2b1cc09f9930dd6821fec94dd554d27d5caabca27229956dce2de40adbba6403e0d6f6c98c080c"
+}
