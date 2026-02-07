@@ -1,0 +1,86 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "d8e159d9bc4f566ce3bb3b08208cdb0209a919d5ab6dfb4c825a12b275c4b9c2",
+  "revealed_at": "2026-02-07T16:59:08.393Z",
+  "receipts": [
+    {
+      "server_name": "cloudflare-1",
+      "server_url": "https://commit-reveal-cloudflare-dev.peerbench.ai",
+      "response": {
+        "reveal_id": "48570547940d47d089a65d47b0495ee7",
+        "registered_at": "2026-02-07T16:59:09.253Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893395,
+          "randomness": "b552c8d6c26117a91af02c3b9e6abd3d0113c8d2e4bea93c0b787f07e302a587",
+          "signature": "b9ebd950445fb42934fba0104b18fe01008e84336106e44a56c6404770d6c3822e3251adb7bfb3fa9656ac0b497c3715"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 5,
+          "total_selected": 5,
+          "items": [
+            {
+              "hash": "39390e89dbf155395fc284c42bce256ce69819687bf92b94f55d833977237adf",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-d8e159d9bc4f/data/administrative_8d128a05.json",
+              "status": "match"
+            },
+            {
+              "hash": "10cae13009268a9a7cd7602a0c4b8840367d1b52dafcc8bb0aad18ae19ab7395",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-d8e159d9bc4f/data/contracts_89331942.json",
+              "status": "match"
+            },
+            {
+              "hash": "c71202ca2a519f83652bc33a417343a7f4e16fa4cff8c2cf6f61994de5b917cc",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-d8e159d9bc4f/data/contracts_e91c306f.json",
+              "status": "match"
+            },
+            {
+              "hash": "87c6d1083bc6bf62f47105a164b5cc4e16c89537773096f2bc97f97ed1009800",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-d8e159d9bc4f/data/property_1de2084a.json",
+              "status": "match"
+            },
+            {
+              "hash": "9d2db07fbb88b04cb04ff611455f216d4529dac5cc78e9fd91a30cdf1464c2ae",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-d8e159d9bc4f/data/property_75096cae.json",
+              "status": "match"
+            }
+          ]
+        },
+        "server_key": "did:key:z6MkqwzoE3a8Q1WQ1egLu2w5pjDLKDqpmQ9FV67wYXtWnUeK",
+        "server_signature": "cc33fa9637d136862f170d08326347f411d0b83a33fff4eb3d009df529619c94078e7a3965ff131f446d83d54089f239f928d09238c8ee3e8895124ee1ba0802"
+      }
+    },
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "af05a5f0386241d685b0671d2d02260d",
+        "registered_at": "2026-02-07T16:59:08.683Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893394,
+          "randomness": "7fb2661f9ac3ed43b32aa447c9bf252f59629aedbf9022212eeea827eb1f35a2",
+          "signature": "b8f946c19911518e0d54151e022679bfc29892975bfcae6170c07e4d842d12bd8bc736676051cae9099885d5adbdc9c8"
+        }
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "3da69a710d594a42b4dfca3a390dda8f",
+        "registered_at": "2026-02-07T16:59:08.515Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25893394,
+          "randomness": "7fb2661f9ac3ed43b32aa447c9bf252f59629aedbf9022212eeea827eb1f35a2",
+          "signature": "b8f946c19911518e0d54151e022679bfc29892975bfcae6170c07e4d842d12bd8bc736676051cae9099885d5adbdc9c8"
+        }
+      }
+    }
+  ]
+}
