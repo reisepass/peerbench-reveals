@@ -1,0 +1,19 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "5a7800cbb03fdfa88eddee7918420b7124f6713284dee2000b4346a4943e798a",
+  "items": [
+    {
+      "path": "civil-procedure_8a05502d.json",
+      "hash": "6f71b42b9ec402e33e446e94e2de202173eb16dcdc234e7d662766ad8ba6f2fe"
+    },
+    {
+      "path": "property_8b927da0.json",
+      "hash": "cab3b16ab77bea07f95fdd2e41e440d248cbc64e825f1fb819166b58f09c43b5"
+    },
+    {
+      "path": "torts_3e89d5f2.json",
+      "hash": "83b502f411b9e212170c00c5c80bba5ada9897a1c023e170c9e31a5e4abaa628"
+    }
+  ],
+  "created_at": "2026-02-07T21:23:21.131Z"
+}
