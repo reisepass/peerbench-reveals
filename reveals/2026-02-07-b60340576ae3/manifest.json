@@ -1,0 +1,23 @@
+{
+  "spec_version": "0.2.0",
+  "root_hash": "5ca226ce6abd7ec1c2b4de7fd1afd4d8d2820590f1252157e548939fd3e999b5",
+  "items": [
+    {
+      "path": "analysis.json",
+      "hash": "03ed97f256379c6a24e4cfce603019b972a66de4fbd14c2ac160ef74761c0d09"
+    },
+    {
+      "path": "coding.json",
+      "hash": "6504c67003772956492bdbf1c975c071e742c3b05359099caf11d075316d9ca1"
+    },
+    {
+      "path": "math.json",
+      "hash": "56ebad38cfc6bb65bed993ba51502ae3cbb891d21fa86f39d053e4530892dc8d"
+    },
+    {
+      "path": "reasoning.json",
+      "hash": "538d14f9f8ba79af05a251fe5f2cd8a84467a27d671b708ab40ba0515053bbd3"
+    }
+  ],
+  "created_at": "2026-02-07T22:11:22.026Z"
+}
