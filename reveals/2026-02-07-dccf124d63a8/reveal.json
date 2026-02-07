@@ -1,12 +1,12 @@
 {
   "spec_version": "0.2.0",
-  "commitment_hash": "66ea1ed53479a17d36d4a424cb8c94e09a7179aa36dc0a046bc67a834d37d2e2",
+  "commitment_hash": "dccf124d63a8dacfb99ef869256a505d7fbb7af0048018bd945a528b85932bc2",
   "selected_items": [
-    "4dab45757eacc10a6c11c1cffc3be3a805e790e4d9fd9d650dcb438e0a95c2f5",
-    "56e2f39719eba0fe1b0d2514570e98669de9953f6e952d21d36761f0de812626"
+    "56e2f39719eba0fe1b0d2514570e98669de9953f6e952d21d36761f0de812626",
+    "165168b5e1456e2e4b054d5a9ebb08d89cfbad0fb3414097153fec3f0f63cc60"
   ],
   "voluntary_items": [],
-  "revealed_at": "2026-02-07T16:44:00.306Z",
+  "revealed_at": "2026-02-07T17:04:21.441Z",
   "signing_key": "did:key:z6MkhEYPvVgUdYg6rFSQ1aWeXRLHt283RMGodUzsxi5VDwz8",
-  "signature": "f27b508f37953e3122b663d47b1e2e1b495ff14b344ff20cd61b90636e389daa75b162887f806786df51ba0fbc575edd78233e889dd64b7a4f8446cc2f762e0e"
+  "signature": "57d3b2a850a34fc848fa595812ab87ff82fa705c3ae8d4ceb856488bfeb601086ae7437fc3f75d8657e301cadc4fabebf778ee5d719eb293240dddbb4927c20c"
 }
