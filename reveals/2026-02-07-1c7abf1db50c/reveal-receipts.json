@@ -1,0 +1,37 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "1c7abf1db50cf62d3512e07484a82b429e41aafbc1ab393887204bf64bc15674",
+  "revealed_at": "2026-02-07T22:10:07.637Z",
+  "receipts": [
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "4591c14a7fd44ee583b8d4e9ab06c211",
+        "registered_at": "2026-02-07T22:10:07.919Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899614,
+          "randomness": "4af40eb31f51560f0f29b47d9ff5e5f4616241f2e526591717a689f11c36180e",
+          "signature": "ae4209810824ed6d00ff7ee5249307a33805a1cee50d9eb6ac6a07cee3c7cdb116f60e52a2bfb23fc4dd98c50dbe48a9"
+        }
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "eafb6efbc4354d619ce6b0a36191b14e",
+        "registered_at": "2026-02-07T22:10:07.772Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899614,
+          "randomness": "4af40eb31f51560f0f29b47d9ff5e5f4616241f2e526591717a689f11c36180e",
+          "signature": "ae4209810824ed6d00ff7ee5249307a33805a1cee50d9eb6ac6a07cee3c7cdb116f60e52a2bfb23fc4dd98c50dbe48a9"
+        }
+      }
+    }
+  ]
+}
