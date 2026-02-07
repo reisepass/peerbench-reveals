@@ -1,0 +1,14 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "ce2d50381fa9aeb60e5674e8020ed7641074aa86927f640e687015a6668b42b2",
+  "selected_items": [
+    "86612489b0a1a0065a1ff4bb36dc91e5812c301a5603f93dbb4de4c2ea73a1b2",
+    "c1f52422a3903f623fe0315f23ba84bd24b87c4431bdc1a70742fba39f2f7e80",
+    "d1bcfe649bdc0a3cbccb2acae863b15a9add950be9c1c587f4711c955e940065",
+    "1ab009ac0f91b0c4e5181140e4f780021b6eabe84f42b78a0d99e90779dec610"
+  ],
+  "voluntary_items": [],
+  "revealed_at": "2026-02-07T21:45:49.222Z",
+  "signing_key": "did:key:z6MkhEYPvVgUdYg6rFSQ1aWeXRLHt283RMGodUzsxi5VDwz8",
+  "signature": "0f9701943659dfde380df123a303982e854ddd4f7744025b3569db13675230f108c91479e438e2d0feca1d9df709ac7db41d322320c4255f5604847c0f5db70f"
+}

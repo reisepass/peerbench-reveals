@@ -1,0 +1,81 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "ce2d50381fa9aeb60e5674e8020ed7641074aa86927f640e687015a6668b42b2",
+  "revealed_at": "2026-02-07T21:45:49.222Z",
+  "receipts": [
+    {
+      "server_name": "cloudflare-1",
+      "server_url": "https://commit-reveal-cloudflare-dev.peerbench.ai",
+      "response": {
+        "reveal_id": "88c272b5f5c1484b829efdb5d620380a",
+        "registered_at": "2026-02-07T21:45:49.961Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899128,
+          "randomness": "e6f3710acd62e99d0d15666727ab07abbef7807859197c378db87aa68600c223",
+          "signature": "adb4811e5e6edf5767ce03ca41e2cca4d2f15c97448a8fd4107fd214062e22373afdbd4ec9698fbff3197ccfd4442865"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 4,
+          "total_selected": 4,
+          "items": [
+            {
+              "hash": "86612489b0a1a0065a1ff4bb36dc91e5812c301a5603f93dbb4de4c2ea73a1b2",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-ce2d50381fa9/data/civil-procedure_f3bd846b.json",
+              "status": "match"
+            },
+            {
+              "hash": "c1f52422a3903f623fe0315f23ba84bd24b87c4431bdc1a70742fba39f2f7e80",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-ce2d50381fa9/data/contracts_1f681d0c.json",
+              "status": "match"
+            },
+            {
+              "hash": "d1bcfe649bdc0a3cbccb2acae863b15a9add950be9c1c587f4711c955e940065",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-ce2d50381fa9/data/torts_159b3106.json",
+              "status": "match"
+            },
+            {
+              "hash": "1ab009ac0f91b0c4e5181140e4f780021b6eabe84f42b78a0d99e90779dec610",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-ce2d50381fa9/data/torts_8856660a.json",
+              "status": "match"
+            }
+          ]
+        },
+        "server_key": "did:key:z6MkqwzoE3a8Q1WQ1egLu2w5pjDLKDqpmQ9FV67wYXtWnUeK",
+        "server_signature": "dd96c48efea93610453936d2e47b8db8f7692e77caaf0885e22aa30d8ce07a5cd1aca818c1f90bf6a62fc588ef8bf707607890b341cd6aa05fe8fa0b53f3900f"
+      }
+    },
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "d543e1e9b1124abea591e4a2eac38a96",
+        "registered_at": "2026-02-07T21:45:49.484Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899128,
+          "randomness": "e6f3710acd62e99d0d15666727ab07abbef7807859197c378db87aa68600c223",
+          "signature": "adb4811e5e6edf5767ce03ca41e2cca4d2f15c97448a8fd4107fd214062e22373afdbd4ec9698fbff3197ccfd4442865"
+        }
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "f739665c26a941259e606581b2dd542b",
+        "registered_at": "2026-02-07T21:45:49.346Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899128,
+          "randomness": "e6f3710acd62e99d0d15666727ab07abbef7807859197c378db87aa68600c223",
+          "signature": "adb4811e5e6edf5767ce03ca41e2cca4d2f15c97448a8fd4107fd214062e22373afdbd4ec9698fbff3197ccfd4442865"
+        }
+      }
+    }
+  ]
+}
