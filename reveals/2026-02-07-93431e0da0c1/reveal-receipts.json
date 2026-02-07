@@ -1,0 +1,76 @@
+{
+  "spec_version": "0.2.0",
+  "commitment_hash": "93431e0da0c1f4cddc72ae84e7be253ecd4824ed80c6b32a36c34c85f03f4872",
+  "revealed_at": "2026-02-07T22:05:52.513Z",
+  "receipts": [
+    {
+      "server_name": "cloudflare-1",
+      "server_url": "https://commit-reveal-cloudflare-dev.peerbench.ai",
+      "response": {
+        "reveal_id": "88ff3ef4fbb8470eb09c0f8802677831",
+        "registered_at": "2026-02-07T22:05:53.111Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899529,
+          "randomness": "5581ebcfdf57f07644f8df670ed3f6fb1b78dc3bb3774b2947a8fcb05974f7f8",
+          "signature": "a7425be0f336b64ce87e93c7b9a85e990821e654b7af93c1dc8acecfd5930904fedce8a26bb1353ecaf4f2d785b61171"
+        },
+        "data_verified": true,
+        "verification": {
+          "verified_items": 3,
+          "total_selected": 3,
+          "items": [
+            {
+              "hash": "de738173c21e4a4795c20f9c8dbb98ee938c4cd80db8eef4b3a6a1c50543b6f0",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-93431e0da0c1/data/constitutional_0ebb20c2.json",
+              "status": "match"
+            },
+            {
+              "hash": "ba505fc6498eee96886f22e81893593b7e3224ba82edff312ce439fe18443636",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-93431e0da0c1/data/ethics_b33cb94a.json",
+              "status": "match"
+            },
+            {
+              "hash": "5716bc500b5bedb16621b357f8ef5ba13850e22728a6d64b66a8122308b5f004",
+              "url": "https://raw.githubusercontent.com/reisepass/peerbench-reveals/main/reveals/2026-02-07-93431e0da0c1/data/evidence_85f96f91.json",
+              "status": "match"
+            }
+          ]
+        },
+        "server_key": "did:key:z6MkqwzoE3a8Q1WQ1egLu2w5pjDLKDqpmQ9FV67wYXtWnUeK",
+        "server_signature": "272233deae784f9fbee17e8c276713eb360a02ec3bf9999a17f53b6474c12c0734298e3d208648ab8d7038a271ca4d95af9c37e40f6ce0e65aab17a7b2f08f0a"
+      }
+    },
+    {
+      "server_name": "supabase-1",
+      "server_url": "https://zgyneuohwbzufajusohz.supabase.co/functions/v1/commit-reveal",
+      "response": {
+        "reveal_id": "9fe859e700664968b832b0fcc4931ee3",
+        "registered_at": "2026-02-07T22:05:52.932Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899529,
+          "randomness": "5581ebcfdf57f07644f8df670ed3f6fb1b78dc3bb3774b2947a8fcb05974f7f8",
+          "signature": "a7425be0f336b64ce87e93c7b9a85e990821e654b7af93c1dc8acecfd5930904fedce8a26bb1353ecaf4f2d785b61171"
+        }
+      }
+    },
+    {
+      "server_name": "google-cloud-1",
+      "server_url": "https://commit-reveal-323104702830.us-central1.run.app",
+      "response": {
+        "reveal_id": "abafb0eb026044d4a702dd162850fafa",
+        "registered_at": "2026-02-07T22:05:52.786Z",
+        "beacon_at_reveal": {
+          "type": "drand",
+          "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+          "round": 25899529,
+          "randomness": "5581ebcfdf57f07644f8df670ed3f6fb1b78dc3bb3774b2947a8fcb05974f7f8",
+          "signature": "a7425be0f336b64ce87e93c7b9a85e990821e654b7af93c1dc8acecfd5930904fedce8a26bb1353ecaf4f2d785b61171"
+        }
+      }
+    }
+  ]
+}
